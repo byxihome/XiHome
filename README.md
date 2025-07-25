@@ -5,17 +5,17 @@
 这是一个功能丰富的个人主页网站，集成了多种现代化交互功能和视觉效果，包括动态背景、天气系统、时间轴、仿QQ资料卡、点赞功能、live2d看板娘、社交互动等模块。
 （点赞功能、live2d看板娘功能需要上传到服务器运行才生效）
 
->**演示站①**：[http://byxi.cn](http://byxi.cn)
+>**演示站①**：<a href="http://byxi.cn" target="_blank">http://byxi.cn</a>
 >
->**演示站②**：[http://byxi.hkfree.work](http://byxi.hkfree.work/)
+>**演示站②**：<a href="http://byxi.hkfree.work" target="_blank">http://byxi.hkfree.work/</a>
 >
->**演示站③**：[https://byxihome.github.io/XiHome/](https://byxihome.github.io/XiHome/)  
+>**演示站③**：<a href="https://byxihome.github.io/XiHome/" target="_blank">https://byxihome.github.io/XiHome/</a>
 
 HTML静态版默认粉色主题。
 
 ---
 > 加入QQ群免费获取PHP后台开源版  
-> QQ交流群：9999999999  
+> QQ交流群：943887776  
 ---
 
 展示图：
