@@ -4,9 +4,8 @@
 
 这是一个功能丰富的个人主页网站，集成了多种现代化交互功能和视觉效果，包括动态背景、天气系统、时间轴、社交互动等模块。
 
->**演示站①**：[https://byxi.cn](https://byxi.cn)  
->**演示站②**：[https://byxi.cn](https://byxi.cn)  
->>**演示站③**：[https://byxi.cn](https://byxi.cn)  
+>**演示站①**：[https://byxi.cn](https://byxi.cn)
+
 
 
 展示图：
