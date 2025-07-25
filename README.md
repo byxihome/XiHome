@@ -7,7 +7,7 @@
 
 >**演示站①**：[https://byxi.cn](http://byxi.cn)
 >
->**演示站②**：[https://byxi.cn](http://byxi.hkfree.work/)
+>**演示站②**：[http://byxi.hkfree.work](http://byxi.hkfree.work/)
 >
 >**演示站③**：[https://byxi.cn](http://byxi.cn)  
 
