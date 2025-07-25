@@ -6095,7 +6095,7 @@ GitHub：https://github.com/byxihome/XiHome
             var likeCooldown = false;
 
             // 页面加载时获取点赞数
-            $.get('http://zan.033303.xyz', { domain: domain, action: 'get' })
+            $.get('https://zan.033303.xyz', { domain: domain, action: 'get' })
                 .done(function (res) {
                     if (res && res.success) {
                         $likeBtn.html(res.like_count).append($icon);
@@ -6139,7 +6139,7 @@ GitHub：https://github.com/byxihome/XiHome
                 }
                 likeCooldown = true;
                 setTimeout(function () { likeCooldown = false; }, 2000);
-                $.post('http://zan.033303.xyz', { domain: domain, action: 'like' })
+                $.post('https://zan.033303.xyz', { domain: domain, action: 'like' })
                     .done(function (res) {
                         if (res && res.success) {
                             $likeBtn.html(res.like_count).append($icon);
