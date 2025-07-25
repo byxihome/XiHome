@@ -3,6 +3,7 @@
 ## 简介
 
 这是一个功能丰富的个人主页网站，集成了多种现代化交互功能和视觉效果，包括动态背景、天气系统、时间轴、社交互动等模块。
+
 展示图：
 <img src="https://img.alicdn.com/imgextra/i3/2210630057461/O1CN01XF8eIS24zC7ULYuLs_!!2210630057461.png" alt="HiHome" width="800">
 
