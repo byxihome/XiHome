@@ -11,6 +11,14 @@
 >
 >**演示站③**：[https://byxi.cn](https://byxi.cn)  
 
+---
+
+后台版待开发中，将采用PHP来进行开发，敬请期待吧！
+
+加入QQ群第一时间获取后台开源版
+> QQ交流群：9999999999  
+
+---
 
 展示图：
 ![Xi'home](https://img.alicdn.com/imgextra/i3/2210630057461/O1CN01XF8eIS24zC7ULYuLs_!!2210630057461.png)
